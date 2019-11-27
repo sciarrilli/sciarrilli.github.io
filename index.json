@@ -49,18 +49,18 @@
 	"content": ""
 },
 {
-	"uri": "http://tgw.neeco.io/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": "Workshop This is an aws workshop for networking\n"
-},
-{
 	"uri": "http://tgw.neeco.io/meat/first-content/",
 	"title": "First Content",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/",
+	"title": "Transit Gateway Workshop",
+	"tags": [],
+	"description": "",
+	"content": "Transit Gateway Workshop Hugo-theme-learn is a theme for Hugo, a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is fully designed for documentation.\nThis theme is a partial porting of the Learn theme of Grav, a modern flat-file CMS written in PHP.\n"
 },
 {
 	"uri": "http://tgw.neeco.io/basics/first-content/",

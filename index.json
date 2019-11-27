@@ -63,15 +63,15 @@
 	"content": ""
 },
 {
-	"uri": "http://tgw.neeco.io/basics/second-content/",
-	"title": "Second Content",
+	"uri": "http://tgw.neeco.io/basics/first-content/",
+	"title": "First Content",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://tgw.neeco.io/basics/first-content/",
-	"title": "First Content",
+	"uri": "http://tgw.neeco.io/basics/second-content/",
+	"title": "Second Content",
 	"tags": [],
 	"description": "",
 	"content": ""
